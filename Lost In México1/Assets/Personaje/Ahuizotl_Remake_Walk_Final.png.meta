@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 841ba21b6d990f947b906532026cc301
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8793193207610713580
+    second: Ahuizotl_Remake_Walk_Final_0
+  - first:
+      213: 7804900097560503908
+    second: Ahuizotl_Remake_Walk_Final_1
+  - first:
+      213: 7097029674489954819
+    second: Ahuizotl_Remake_Walk_Final_2
+  - first:
+      213: 2938327405019503086
+    second: Ahuizotl_Remake_Walk_Final_3
+  - first:
+      213: -9013560899807684060
+    second: Ahuizotl_Remake_Walk_Final_4
+  - first:
+      213: 7327863682896893609
+    second: Ahuizotl_Remake_Walk_Final_5
+  - first:
+      213: 5723080283512309037
+    second: Ahuizotl_Remake_Walk_Final_6
+  - first:
+      213: -6685794849207382398
+    second: Ahuizotl_Remake_Walk_Final_7
+  - first:
+      213: 659121681588449536
+    second: Ahuizotl_Remake_Walk_Final_8
+  - first:
+      213: 1366665631990185738
+    second: Ahuizotl_Remake_Walk_Final_9
+  - first:
+      213: -6442267549353146635
+    second: Ahuizotl_Remake_Walk_Final_10
+  - first:
+      213: -1643051577972667749
+    second: Ahuizotl_Remake_Walk_Final_11
+  - first:
+      213: -3701925891905276052
+    second: Ahuizotl_Remake_Walk_Final_12
+  - first:
+      213: 1124013385677403384
+    second: Ahuizotl_Remake_Walk_Final_13
+  - first:
+      213: 827783356252684518
+    second: Ahuizotl_Remake_Walk_Final_14
+  - first:
+      213: -4823571271801052736
+    second: Ahuizotl_Remake_Walk_Final_15
+  - first:
+      213: -3731927307752274145
+    second: Ahuizotl_Remake_Walk_Final_0
+  - first:
+      213: -764292281811527364
+    second: Ahuizotl_Remake_Walk_Final_1
+  - first:
+      213: 3986300054612988659
+    second: Ahuizotl_Remake_Walk_Final_2
+  - first:
+      213: 6575644456703154668
+    second: Ahuizotl_Remake_Walk_Final_3
+  - first:
+      213: -8132771595747852681
+    second: Ahuizotl_Remake_Walk_Final_4
+  - first:
+      213: -6014816326853518013
+    second: Ahuizotl_Remake_Walk_Final_5
+  - first:
+      213: 7699221060426923752
+    second: Ahuizotl_Remake_Walk_Final_6
+  - first:
+      213: -5744573833072326992
+    second: Ahuizotl_Remake_Walk_Final_7
+  - first:
+      213: 4066994608713176589
+    second: Ahuizotl_Remake_Walk_Final_8
+  - first:
+      213: -7550108354309910044
+    second: Ahuizotl_Remake_Walk_Final_9
+  - first:
+      213: 9077891759339950897
+    second: Ahuizotl_Remake_Walk_Final_10
+  - first:
+      213: -4284095595683058270
+    second: Ahuizotl_Remake_Walk_Final_11
+  - first:
+      213: 2333866713063807225
+    second: Ahuizotl_Remake_Walk_Final_12
+  - first:
+      213: 390924879603442472
+    second: Ahuizotl_Remake_Walk_Final_13
+  - first:
+      213: -3047292346886985608
+    second: Ahuizotl_Remake_Walk_Final_14
+  - first:
+      213: 3406055431479810543
+    second: Ahuizotl_Remake_Walk_Final_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4396
+        width: 1231
+        height: 865
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1788ddd2e7853cc0800000000000000
+      internalID: -3731927307752274145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_1
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 4378
+        width: 1294
+        height: 883
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391d061830b465f0800000000000000
+      internalID: -764292281811527364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_2
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 4330
+        width: 1226
+        height: 903
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2d35387ce225730800000000000000
+      internalID: 3986300054612988659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3391
+        width: 1285
+        height: 873
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9de0b4bc1614b50800000000000000
+      internalID: 6575644456703154668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_4
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 3352
+        width: 1232
+        height: 933
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eff0ca257922f80800000000000000
+      internalID: -8132771595747852681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_5
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 3344
+        width: 1321
+        height: 926
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d1da82b64178ca0800000000000000
+      internalID: -6014816326853518013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2294
+        width: 1290
+        height: 903
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eef3f123c029da60800000000000000
+      internalID: 7699221060426923752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_7
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2312
+        width: 1327
+        height: 897
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b648bde88c2740b0800000000000000
+      internalID: -5744573833072326992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_8
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2339
+        width: 1250
+        height: 873
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0617cb7c0ed07830800000000000000
+      internalID: 4066994608713176589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_9
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 13
+        width: 1314
+        height: 951
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e116a53470a83790800000000000000
+      internalID: -7550108354309910044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1116
+        width: 1340
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13357e855762bfd70800000000000000
+      internalID: 9077891759339950897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_11
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1170
+        width: 1240
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adee7bf0c5db84c0800000000000000
+      internalID: -4284095595683058270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_12
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 1114
+        width: 1321
+        height: 911
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8d641096f836020800000000000000
+      internalID: 2333866713063807225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1260
+        height: 916
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82320a65b18dc6500800000000000000
+      internalID: 390924879603442472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_14
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 1375
+        height: 946
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878e80971c7d5b5d0800000000000000
+      internalID: -3047292346886985608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ahuizotl_Remake_Walk_Final_15
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 22
+        width: 1312
+        height: 915
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9d4ae6e5db44f20800000000000000
+      internalID: 3406055431479810543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
